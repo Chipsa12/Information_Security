@@ -1,5 +1,3 @@
-import sys
-
 # ГОСТ 28147-89
 # coding: UTF-8
 
